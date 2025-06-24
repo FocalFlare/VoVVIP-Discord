@@ -3,7 +3,6 @@
 <p>A private selective-access community division of the main Voidstate of Venaphase server.<br>
 #: <code>Community</code> <code>Music</code> <code>Art</code> <code>Gaming</code> <code>Memes</code></p>
 <hr>
-<hr>
 <h1 id="server-info">Server Info</h1>
 <p>Info about the server and its channels.</p>
 <ul>
